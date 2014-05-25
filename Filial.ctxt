@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=endere\u00E7o
+comment0.target=void\ setEndere\u00E7o(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getEndere\u00E7o()
+comment2.params=Cidade
+comment2.target=void\ setCidade(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getCidade()
+comment4.params=numFilial
+comment4.target=void\ setNumFilial(int)
+comment5.params=
+comment5.target=int\ getNumFilial()
+numComments=6
